@@ -2,4 +2,4 @@
 
 Learning about and playing around with shaders!
 
-Demo: [a relative link](demo/animals.mp4)
+[Demo Video](demo/animals.mp4)
